@@ -74,6 +74,5 @@ object Recursion extends App {
   println(isPrime(2003))
   println(isPrime(639))
 
-  //3
-  def
+
 }
